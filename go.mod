@@ -157,3 +157,5 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/threefoldtech/tfgrid-sdk-go/rmb-sdk-go => github.com/scottyeager/tfgrid-sdk-go/rmb-sdk-go v0.16.1-0.20250116215033-53f501ee6c7a
